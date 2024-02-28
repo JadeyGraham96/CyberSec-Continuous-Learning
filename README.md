@@ -34,7 +34,7 @@ pip install -r requirements.txt
 To run the continuous learning system, execute the main script:
 
 ```bash
-python continuous_learning.py
+python main.py
 ```
 
 The script will start by training the model on an initial dataset. It will then enter a continuous learning loop, where it periodically retrains the model with new data to adapt to evolving cyber threats.
